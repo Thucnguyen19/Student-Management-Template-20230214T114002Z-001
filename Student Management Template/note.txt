@@ -1,0 +1,10 @@
+cac buoc thuc hien 
+1 tai thu muc student managerment template 
+2 giai nen 
+3 tao app student-mn
+4 tao comonents 
+5 mo transform tool
+chuyen html sang jsx 
+copy va pates vao app
+6.nhung css vao file index 
+7. Tao studentcomponent
